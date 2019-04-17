@@ -1,0 +1,8 @@
+{
+  "name": "MyGame",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "834f6be9"
+}
