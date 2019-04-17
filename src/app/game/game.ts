@@ -18,7 +18,6 @@ export class MyGame extends Phaser.Game {
           }
         },
         backgroundColor: '#000033',
-  
       });
     }
 }
