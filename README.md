@@ -4,12 +4,12 @@ Mobile Game Template project with:
 - phaser3 (typescripts)
 
 To run in brower type in terminal command:
-    ionic serve
+> ionic serve
+
 or to check in browser how it would look on devices run command:
-    ionic serve --lab 
+> ionic serve --lab 
 
 To run on Android physical device run command:
-    ionic cordova run android
+> ionic cordova run android
 
-You can start building your app under ./src/app/game
-check game.ts for Phaser3 configuration.
+You can start building your app under ./src/app/game check game.ts for Phaser3 configuration.
